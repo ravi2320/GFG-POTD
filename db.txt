@@ -1,0 +1,97 @@
+create table patient
+(
+	pid number primary key not null,
+	pname varchar2(45) not null,
+	email varchar2(45) not null,
+	password varchar2(45) not null
+);
+
+CREATE SEQUENCE pidSeq
+  START WITH 1
+  INCREMENT BY 1
+  NOCACHE;
+
+CREATE OR REPLACE TRIGGER pidTrigger
+BEFORE INSERT ON patient
+FOR EACH ROW
+BEGIN
+    SELECT pidSeq.nextval INTO :new.pid FROM DUAL;
+END;
+/
+
+CREATE TABLE Specialist
+(
+	spec_id number primary key not null,
+	spec_name varchar2(50) not null
+);
+ 
+CREATE SEQUENCE specSeq
+  START WITH 1
+  INCREMENT BY 1
+  NOCACHE;
+
+CREATE OR REPLACE TRIGGER specTrigger
+BEFORE INSERT ON Specialist
+FOR EACH ROW
+BEGIN
+    SELECT specSeq.nextval INTO :new.spec_id FROM DUAL;
+END;
+/
+
+CREATE TABLE DOCTOR
+( 
+	id number primary key not null,
+	name varchar2(50) not null,
+	dob Date not null,
+	qualification varchar2(50) not null,
+	specialist varchar2(50) not null,
+	email varchar2(50) not null,
+	mobno varchar2(12) not null,
+	password varchar2(50) not null
+);
+
+CREATE SEQUENCE docSeq
+  START WITH 1
+  INCREMENT BY 1
+  NOCACHE;
+
+CREATE OR REPLACE TRIGGER docTrigger
+BEFORE INSERT ON Doctor
+FOR EACH ROW
+BEGIN
+    SELECT docSeq.nextval INTO :new.id FROM DUAL;
+END;
+/
+
+
+CREATE TABLE APPOINTMENT
+(
+    id NUMBER PRIMARY KEY NOT NULL,
+    patient_id NUMBER NOT NULL,
+    name VARCHAR2(50) NOT NULL, 
+    gender VARCHAR2(50) NOT NULL,
+    age NUMBER NOT NULL,
+    appoint_date VARCHAR2(30) NOT NULL,
+    email VARCHAR2(50) NOT NULL,
+    phone VARCHAR2(20) NOT NULL,
+    disease VARCHAR2(50) NOT NULL,
+    doctor_id NUMBER NOT NULL,
+    address VARCHAR2(500) NOT NULL,
+    status VARCHAR2(500) NOT NULL,
+    FOREIGN KEY (patient_id) REFERENCES patient(pid),
+    FOREIGN KEY (doctor_id) REFERENCES doctor(id)
+);
+
+CREATE SEQUENCE appointSeq
+  START WITH 1
+  INCREMENT BY 1
+  NOCACHE;
+
+CREATE OR REPLACE TRIGGER appointTrigger
+BEFORE INSERT ON APPOINTMENT
+FOR EACH ROW
+BEGIN
+    SELECT appointSeq.nextval INTO :new.id FROM DUAL;
+END;
+/
+	
