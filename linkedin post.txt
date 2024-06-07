@@ -1,0 +1,22 @@
+🚀 Day 5: Advancing in the DSA with Development Journey 🚀
+
+Hello #linkedinfamily,
+
+Welcome to Day 5 of my journey in advancing Data Structures and Algorithms and development.
+
+🔍 DSA Section: Today, I solved:
+    1. 846. Hand of Straights in LeetCode daily challenge.
+    2. Basic Recursion and Hashing Questions from Striver's A2Z series:
+	• 509. Fibonacci Number
+	• Frequencies of Limited Range Array Elements
+	• 1838. Frequency of the Most Frequent Element
+
+💻 Development Section: In the Spring series today, I studied:
+    1. Injecting Reference Type in config.xml file
+    2. Constructor Injection in config.xml file 
+    3. Ambiguity Problem and its Solution with Constructor Injection
+
+Excited to keep progressing and sharing my journey with you all. See you on Day 6!
+
+#DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
+
