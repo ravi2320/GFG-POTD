@@ -1,23 +1,24 @@
-🚀 Day 7(8-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 8(9-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 7 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 8 of my journey in advancing Data Structures and Algorithms and development.
 
 🔍 DSA Section: Today, I solved:
-    1. 523. Continuous Subarray Sum in LeetCode daily challenge.
-    2. Basic Recursion and Hashing Questions from Striver's A2Z series:
-	• Largest Element in an Array
-	• Second Largest
-	• Remove duplicates from Sorted array
+    1. 974. Subarray Sums Divisible by K in LeetCode daily challenge.
+    2. Convert array into Zig-Zag fashion in GFG POTD
+    3. Basic Array Questions from Striver's A2Z series:
+	• 1752. Check if Array Is Sorted and Rotated
+	• 189. Rotate Array
+	• 283. Move Zeroes
 
 💻 Development Section: In the Spring series today, I studied:
-    1. Autowiring in Spring Framework
-    2. Autowiring using XML complete Session 
-    3. @Autowired Annotation for Autowiring 
-    4. @Autowired Annotation for Autowiring
+    1. Spring standalone collections such as List, Map, and Properties are used to configure and inject collections of beans directly through XML or annotations
+    2. I have learned about Stereotype Annotations in Spring, including the @Component annotation for marking beans and the @Value annotation for injecting values into fields from configuration sources.
+    3. collections with the @Value annotation in Spring 
+    4. Spring Bean scopes configured through XML and annotations for defining bean lifecycles.
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 7!
+Excited to keep progressing and sharing my journey with you all. See you on Day 8!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
