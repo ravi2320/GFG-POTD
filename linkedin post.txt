@@ -1,23 +1,23 @@
-🚀 Day 10✅(11-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 11✅(12-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 10 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 11 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1122. Relative Sort Array in LeetCode daily challenge.
-    2. Maximum Tip Calculator in GFG POTD
+    1. 75. Sort Colors in LeetCode daily challenge.
+    2. Count numbers containing 4 in GFG POTD
     3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 1. Two Sum
-	🔸️ 75. Sort Colors
-	🔸️ 169. Majority Element
+	🔸️ 53. Maximum Subarray
+	🔸️ Max sum in sub-arrays
+	🔸️ Longest Sub-Array with Sum K
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ What is Spring JDBC | Introduct to Spring JDBC | Why to use Spring JDBC 
-    ✅ Creating new Maven Project | Adding Spring JDBC Dependencies
-    ✅ Database setup | Configuring Jdbc Template to execute query
+    ✅ Update Operation using Spring Jdbc
+    ✅ Delete Operation using Spring Jdbc
+    ✅ row mapper concept in Spring Jdbc
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 11!
+Excited to keep progressing and sharing my journey with you all. See you on Day 12!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
