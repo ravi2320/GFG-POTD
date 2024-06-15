@@ -8,15 +8,17 @@ Welcome to Day 13 of my journey in advancing Data Structures and Algorithms and 
     1. 945. Minimum Increment to Make Array Unique in LeetCode daily challenge.
     2. Armstrong Numbers in GFG POTD
     3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 121. Best Time to Buy and Sell Stock
-	🔸️ Max sum in sub-arrays
-	🔸️ 2149. Rearrange Array Elements by Sign
+	🔸️ 560. Subarray Sum Equals K
+	🔸️ Leaders in an array
+	🔸️ 48. Rotate Image
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Selecting single object using Spring Jdbc
-    ✅ Selecting Multiple object using Spring Jdbc
-    ✅ Spring Jdbc Configuration without XMl
-    ✅ autowiring wth Spring Jdbc
+    ✅ Introduction to Spring ORM | Why Spring ORM 
+    ✅ Spring ORM Complete Setup | New Project | Adding Dependencies in Detail
+    ✅ Adding Configuration File | Creating Entities | Creating Dao for Spring ORM Project
+    ✅ Complete Configuration of Spring ORM step by step 
+    ✅ Complete CRUD Operation using Spring ORM
+    ✅ Creating console application using Spring ORM
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 14!
 
