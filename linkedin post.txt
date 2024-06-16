@@ -1,26 +1,20 @@
-🚀 Day 13✅(14-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 14✅(15-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 13 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 14 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 945. Minimum Increment to Make Array Unique in LeetCode daily challenge.
-    2. Armstrong Numbers in GFG POTD
+    1. 502. IPO in LeetCode daily challenge.
+    2. Mobile numeric keypad in GFG POTD
     3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 560. Subarray Sum Equals K
-	🔸️ Leaders in an array
-	🔸️ 48. Rotate Image
+	🔸️ 54. Spiral Matrix
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Introduction to Spring ORM | Why Spring ORM 
-    ✅ Spring ORM Complete Setup | New Project | Adding Dependencies in Detail
-    ✅ Adding Configuration File | Creating Entities | Creating Dao for Spring ORM Project
-    ✅ Complete Configuration of Spring ORM step by step 
-    ✅ Complete CRUD Operation using Spring ORM
     ✅ Creating console application using Spring ORM
+    ✅ Completing Database application using spring orm
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 14!
+Excited to keep progressing and sharing my journey with you all. See you on Day 15!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
