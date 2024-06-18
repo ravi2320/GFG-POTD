@@ -1,20 +1,19 @@
-🚀 Day 14✅(15-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 16✅(17-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 14 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 16 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 502. IPO in LeetCode daily challenge.
-    2. Mobile numeric keypad in GFG POTD
-    3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 54. Spiral Matrix
+    1. 633. Sum of Square Numbers in LeetCode daily challenge
+    2. Basic Array Questions from Striver's A2Z series:
+	🔸️ 229. Majority Element II
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Creating console application using Spring ORM
-    ✅ Completing Database application using spring orm
+    ✅ Configuring and Code our spring mvc project in just 5 steps
+    ✅ Sending Data From Controller to View 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 15!
+Excited to keep progressing and sharing my journey with you all. See you on Day 17!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
