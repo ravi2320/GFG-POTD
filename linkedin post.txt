@@ -1,21 +1,23 @@
-🚀 Day 17✅(18-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 19✅(20-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 17 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 18 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
     1. 633. Sum of Square Numbers in LeetCode daily challenge
-    2. Number of Rectangles in a Circle in GFG POTD
-    3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 15. 3Sum
-	🔸️ 18. 4Sum
+    2. Basic Array Questions from Striver's A2Z series:
+	🔸️ Largest subarray with 0 sum
+	🔸️ Subarray with given XOR
+	🔸️ 118. Pascal's Triangle
+	🔸️ 56. Merge Intervals
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ ModelAndView | Sending Data from controller to View
-    ✅ JSP Expression Language to Print Values in Spring MVC Views | JSTL for traversing
+    ✅ Handling Form at Spring MVC Controller using @RequestParam Annotation
+    ✅ Handling Form with @ModelAttribute Annotation | @ModelAttribute Annoation 
+    ✅ User Registration using Spring MVC and Spring ORM
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 18!
+Excited to keep progressing and sharing my journey with you all. See you on Day 20!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
