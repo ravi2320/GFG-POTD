@@ -5,12 +5,10 @@ Hello #linkedinfamily,
 Welcome to Day 18 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 633. Sum of Square Numbers in LeetCode daily challenge
+    1. 1552. Magnetic Force Between Two Balls in LeetCode daily challenge
     2. Basic Array Questions from Striver's A2Z series:
-	🔸️ Largest subarray with 0 sum
-	🔸️ Subarray with given XOR
-	🔸️ 118. Pascal's Triangle
-	🔸️ 56. Merge Intervals
+	🔸️ 88. Merge Sorted Array
+	🔸️ Missing And Repeating
 
 💻 Development Section: In the Spring series today, I studied:
     ✅ Handling Form at Spring MVC Controller using @RequestParam Annotation
