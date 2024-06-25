@@ -1,19 +1,19 @@
-🚀 Day 22✅(23-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 23✅(24-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 22 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 23 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit in LeetCode daily challenge
-    2. Print Bracket Number in GFG POTD
+    1. 995. Minimum Number of K Consecutive Bit Flips in LeetCode daily challenge
+    2. Summed Matrix in GFG POTD
     2. Basic Array Questions from Striver's A2Z series:
-	🔸️ Extract the Number from the String
+	🔸️ 1021. Remove Outermost Parentheses
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Handling Complex form in Spring MVC in one line
+    ✅ More Complex Form Handling | Automatic Binding with custom Type 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 23!
+Excited to keep progressing and sharing my journey with you all. See you on Day 24!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
