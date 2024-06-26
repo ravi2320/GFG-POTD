@@ -1,19 +1,19 @@
-🚀 Day 23✅(24-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 24✅(25-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 23 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 24 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 995. Minimum Number of K Consecutive Bit Flips in LeetCode daily challenge
-    2. Summed Matrix in GFG POTD
-    2. Basic Array Questions from Striver's A2Z series:
-	🔸️ 1021. Remove Outermost Parentheses
+    1. 1038. Binary Search Tree to Greater Sum Tree in LeetCode daily challenge
+    2. Left Rotate Matrix K times in GFG POTD
+    2. Basic String Questions from Striver's A2Z series:
+	🔸️ 1903. Largest Odd Number in String
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ More Complex Form Handling | Automatic Binding with custom Type 
+    ✅ Handling Errors in Spring MVC using BindingResult Object
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 24!
+Excited to keep progressing and sharing my journey with you all. See you on Day 25!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
