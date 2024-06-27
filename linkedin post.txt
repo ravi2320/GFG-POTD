@@ -1,19 +1,20 @@
-🚀 Day 24✅(25-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 25✅(26-Jun-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 24 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 25 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1038. Binary Search Tree to Greater Sum Tree in LeetCode daily challenge
-    2. Left Rotate Matrix K times in GFG POTD
+    1. 1382. Balance a Binary Search Tree in LeetCode daily challenge
+    2. Coverage of all Zeros in a Binary Matrix in GFG POTD
     2. Basic String Questions from Striver's A2Z series:
-	🔸️ 1903. Largest Odd Number in String
+	🔸️ Floor in a Sorted Array
+	🔸️ Ceil The Floor
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Handling Errors in Spring MVC using BindingResult Object
+    ✅ Serving Static Files in Spring MVC in very simple steps | CSS , JS, Images |
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 25!
+Excited to keep progressing and sharing my journey with you all. See you on Day 26!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
