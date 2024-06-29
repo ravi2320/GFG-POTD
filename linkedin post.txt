@@ -6,13 +6,13 @@ Welcome to Day 27 of my journey in advancing Data Structures and Algorithms and 
 
 📝 DSA Section: Today, I solved:
     1. 2285. Maximum Total Importance of Roads in LeetCode daily challenge
-    2. Toeplitz matrix in GFG POTD
+    2. The Palindrome Pattern in GFG POTD
     2. Basic String Questions from Striver's A2Z series:
-	🔸️ 35. Search Insert Position
-	🔸️ Ceil The Floor
+	🔸️ 34. Find First and Last Position of Element in Sorted Array
+	🔸️ Number of occurrence
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ File Uploading in Spring MVC | Complete Configuration and Explanation
+    ✅ Exception Handling in Spring MVC | @ExceptionHandler
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 28!
 
