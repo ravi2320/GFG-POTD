@@ -1,19 +1,19 @@
-🚀 Day 29✅(30-Jun-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 30✅(01-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 29 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 30 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1579. Remove Max Number of Edges to Keep Graph Fully Traversable Graph in LeetCode daily challenge
-    2. Delete node in Doubly Linked List in GFG POTD
+    1. 1550. Three Consecutive Odds in LeetCode daily challenge
+    2. Make Binary Tree From Linked List in GFG POTD
     2. Basic String Questions from Striver's A2Z series:
-	🔸️ 540. Single Element in a Sorted Array
+	🔸️ 205. Isomorphic Strings
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Centralized Exception Handling in Spring MVC using @ControllerAdvice
+    ✅ Spring MVC Interceptor | preprocessing and post processing the request
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 30!
+Excited to keep progressing and sharing my journey with you all. See you on Day 31!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
