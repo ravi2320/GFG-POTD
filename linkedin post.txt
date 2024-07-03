@@ -1,19 +1,19 @@
-🚀 Day 30✅(01-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 32✅(03-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 30 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 32 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1550. Three Consecutive Odds in LeetCode daily challenge
-    2. Make Binary Tree From Linked List in GFG POTD
-    2. Basic String Questions from Striver's A2Z series:
-	🔸️ 205. Isomorphic Strings
+    1. 1509. Minimum Difference Between Largest and Smallest Value in Three Moves in LeetCode daily challenge
+    2. Linked list of strings forms a palindrome in GFG POTD
+    3. Basic Binary Search Questions from Striver's A2Z series:
+	🔸️ 33. Search in Rotated Sorted Array
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Spring MVC Interceptor | preprocessing and post processing the request
+    ✅ Project : Product CRUD Application using Spring MVC | CRUD Operation using Spring MVC
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 31!
+Excited to keep progressing and sharing my journey with you all. See you on Day 33!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
