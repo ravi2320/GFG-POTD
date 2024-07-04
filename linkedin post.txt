@@ -6,12 +6,12 @@ Welcome to Day 32 of my journey in advancing Data Structures and Algorithms and 
 
 📝 DSA Section: Today, I solved:
     1. 1509. Minimum Difference Between Largest and Smallest Value in Three Moves in LeetCode daily challenge
-    2. Linked list of strings forms a palindrome in GFG POTD
+    2. Remove all occurences of duplicates in a linked list in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 33. Search in Rotated Sorted Array
+	🔸️ 81. Search in Rotated Sorted Array II
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ Project : Product CRUD Application using Spring MVC | CRUD Operation using Spring MVC
+    ✅ Project : Complete Add Product Module | Delete Module with Front and Backend 
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 33!
 
