@@ -1,19 +1,19 @@
-🚀 Day 33✅(04-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 34✅(05-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 33 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 34 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2181. Merge Nodes in Between Zeros in LeetCode daily challenge
-    2. Duplicate Subtrees in a linked list in GFG POTD
+    1. 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points in LeetCode daily challenge
+    2. Vertical Width of a Binary Tree in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 153. Find Minimum in Rotated Sorted Array
+	🔸️ Find Kth Rotation
 
 💻 Development Section: In the Spring series today, I studied:
     ✅ Project : Complete Add Product Module | Delete Module with Front and Backend 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 34!
+Excited to keep progressing and sharing my journey with you all. See you on Day 35!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
