@@ -1,21 +1,19 @@
-🚀 Day 35✅(06-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 36✅(07-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 35 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 36 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
     1. 2582. Pass the Pillow in LeetCode daily challenge
-    2. Populate Inorder Successor for all nodes in GFG POTD
+    2. Ancestors in Binary Tree in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 162. Find Peak Element
-	🔸️ Isomorphic String
-	🔸️ 242. Valid Anagram
+	🔸️ Find Kth Rotation
 
 💻 Development Section: In the Spring series today, I studied:
     ✅ Project : Delete Module with Front and Backend 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 36!
+Excited to keep progressing and sharing my journey with you all. See you on Day 37!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
