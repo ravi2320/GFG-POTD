@@ -1,11 +1,11 @@
-🚀 Day 37✅(08-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 39✅(10-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 37 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 39 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1823. Find the Winner of the Circular Game in LeetCode daily challenge
+    1. 1598. Crawler Log Folder in LeetCode daily challenge
     2. Search in Rotated Sorted Array in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
 	🔸️ 162. Find Peak Element
@@ -15,7 +15,7 @@ Welcome to Day 37 of my journey in advancing Data Structures and Algorithms and 
 💻 Development Section: In the Spring series today, I studied:
     ✅ CRUD Operation using Spring MVC | Update Module Product CRUD Application
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 38!
+Excited to keep progressing and sharing my journey with you all. See you on Day 39!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
