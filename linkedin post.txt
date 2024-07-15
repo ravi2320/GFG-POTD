@@ -1,20 +1,21 @@
-🚀 Day 42✅(13-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 43✅(14-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 42 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 43 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2751. Robot Collisions in LeetCode daily challenge
-    2. Shortest Path in Weighted undirected graph in GFG POTD
+    1. 726. Number of Atoms in LeetCode daily challenge
+    2. Segregate 0s and 1s in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 410. Split Array Largest Sum
-	🔸️ The Painter's Partition Problem-II
+	🔸️ k largest elements
+	🔸️ Check Equal Arrays
+	🔸️ Missing in Array
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅ CRUD Operation using Spring MVC | Update Module Product CRUD Application | Spring MVC Tutorial
+    ✅ Aspect Oriented Programming(AOP) Crash Course For beginners in Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 43!
+Excited to keep progressing and sharing my journey with you all. See you on Day 44!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
