@@ -1,21 +1,21 @@
-🚀 Day 43✅(14-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 45✅(16-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 43 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 45 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 726. Number of Atoms in LeetCode daily challenge
+    1. 2096. Step-By-Step Directions From a Binary Tree Node to Another in LeetCode daily challenge
     2. Segregate 0s and 1s in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ k largest elements
+	🔸️ k 236. Lowest Common Ancestor of a Binary Tree
 	🔸️ Check Equal Arrays
 	🔸️ Missing in Array
 
-💻 Development Section: In the Spring series today, I studied:
-    ✅ Aspect Oriented Programming(AOP) Crash Course For beginners in Hindi
+💻 Development Section: In the Springboot series today, I studied:
+    ✅ #1 Spring Boot Introduction | What is Spring Boot & Features | Spring Boot Tutorials
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 44!
+Excited to keep progressing and sharing my journey with you all. See you on Day 46!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
