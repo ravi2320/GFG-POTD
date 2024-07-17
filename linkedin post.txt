@@ -6,14 +6,13 @@ Welcome to Day 45 of my journey in advancing Data Structures and Algorithms and 
 
 📝 DSA Section: Today, I solved:
     1. 2096. Step-By-Step Directions From a Binary Tree Node to Another in LeetCode daily challenge
-    2. Segregate 0s and 1s in GFG POTD
+    2. Remaining String in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
 	🔸️ k 236. Lowest Common Ancestor of a Binary Tree
-	🔸️ Check Equal Arrays
-	🔸️ Missing in Array
 
 💻 Development Section: In the Springboot series today, I studied:
-    ✅ #1 Spring Boot Introduction | What is Spring Boot & Features | Spring Boot Tutorials
+    ✅ #2 How to install STS for Spring Boot | Spring Boot Tutorials
+    ✅ #3 How to create Spring Boot Project |Ways of creating Spring Boot Application|Spring Boot Tutorials
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 46!
 
