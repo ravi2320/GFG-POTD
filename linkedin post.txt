@@ -1,19 +1,20 @@
-🚀 Day 46✅(17-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 47✅(18-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 46 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 47 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
     1. 1110. Delete Nodes And Return Forest in LeetCode daily challenge
-    2. Construct Binary Tree from Parent Array in GFG POTD
+    2. Longest alternating subsequence in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Merge Sort
+	🔸️ Count Inversions
+	🔸️ 493. Reverse Pairs
 
 💻 Development Section: In the Springboot series today, I studied:
     ✅#4 Internal working of Spring Boot Application 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 47!
+Excited to keep progressing and sharing my journey with you all. See you on Day 48!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
