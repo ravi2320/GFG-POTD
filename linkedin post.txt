@@ -5,14 +5,14 @@ Hello #linkedinfamily,
 Welcome to Day 47 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1110. Delete Nodes And Return Forest in LeetCode daily challenge
-    2. Longest alternating subsequence in GFG POTD
+    1. 1380. Lucky Numbers in a Matrix in LeetCode daily challenge
+    2. Count Smaller elements in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Count Inversions
-	🔸️ 493. Reverse Pairs
+	🔸️ Merge Without Extra Space
+	🔸️ Equilibrium Point
 
 💻 Development Section: In the Springboot series today, I studied:
-    ✅#4 Internal working of Spring Boot Application 
+    ✅#6 Why use @SpringBootApplication annotation 
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 48!
 
