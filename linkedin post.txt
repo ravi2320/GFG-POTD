@@ -1,20 +1,20 @@
-🚀 Day 47✅(18-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 49✅(20-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 47 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 49 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1380. Lucky Numbers in a Matrix in LeetCode daily challenge
-    2. Count Smaller elements in GFG POTD
+    1. 1605. Find Valid Matrix Given Row and Column Sums in LeetCode daily challenge
+    2. Remove Half Nodes in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Merge Without Extra Space
-	🔸️ Equilibrium Point
+	🔸️ Median of 2 Sorted Arrays of Different Sizes
+	🔸️ Insert a node in a BST
 
 💻 Development Section: In the Springboot series today, I studied:
-    ✅#6 Why use @SpringBootApplication annotation 
+    ✅#7 why use spring-boot-starter-parent
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 48!
+Excited to keep progressing and sharing my journey with you all. See you on Day 50!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
