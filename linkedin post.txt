@@ -1,20 +1,19 @@
-🚀 Day 49✅(20-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 50✅(21-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 49 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 50 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1605. Find Valid Matrix Given Row and Column Sums in LeetCode daily challenge
-    2. Remove Half Nodes in GFG POTD
+    1. 2392. Build a Matrix With Conditions in LeetCode daily challenge
+    2. Maximum product subset of an array in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Median of 2 Sorted Arrays of Different Sizes
-	🔸️ Insert a node in a BST
+	🔸️ Linked List Insertion At End
 
 💻 Development Section: In the Springboot series today, I studied:
-    ✅#7 why use spring-boot-starter-parent
+    ✅#9 application.properties file why used in spring boot 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 50!
+Excited to keep progressing and sharing my journey with you all. See you on Day 51!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
