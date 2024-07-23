@@ -30,24 +30,31 @@ class Solution {
   public:
     long long int findMaxProduct(vector<int>& arr) {
         // Write your code here
-        int mini = INT_MIN;
-        long long int mod = 1e9+7;
-        long long int prod = 1;
+        long long int pos_prod = 1, neg_prod = 1, pos_cnt = 0, neg_cnt = 0, mod = 1e9+7;
+        long long int neg_max = INT_MIN;
         
-        for(int n : arr){
-            if(n == 0)
-                continue;
-            else{
-                if(n < 0 && mini < n)
-                    mini = n;
-                
-                prod = (prod * n)%mod;
+        if(arr.size() == 1){
+            return arr[0];
+        }
+        
+        for(int &x : arr){
+            if(x < 0){
+                neg_prod = (neg_prod * (long long int)x) % mod;
+                neg_max = max(neg_max, (long long int)x);
+                neg_cnt++;
+            }
+            else if(x > 0){
+                pos_prod = (pos_prod * (long long int) x) % mod;;
+                pos_cnt++;
             }
         }
         
-        if(prod < 0)
-            return (prod / mini)%mod;
-            
-        return prod%mod;
+        if(neg_cnt <= 1 && pos_cnt == 0){
+            return 0;
+        }
+        
+        if(neg_prod < 0) neg_prod /= neg_max;
+        
+        return (neg_prod * pos_prod) % mod;
     }
 };
