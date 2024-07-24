@@ -6,12 +6,12 @@ Welcome to Day 52 of my journey in advancing Data Structures and Algorithms and 
 
 📝 DSA Section: Today, I solved:
     1. 1636. Sort Array by Increasing Frequency in LeetCode daily challenge
-    2. Largest BST in GFG POTD
+    2. Merge two BST 's in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Linked List Insertion At End
+	🔸️ Quick Sort
 
-💻 Development Section: In the Springboot series today, I studied:
-    ✅#9 application.properties file why used in spring boot 
+💻 Development Section: In the Spring series today, I studied:
+    ✅#1 E-Notes Spring MVC Major Project | Enotes Java Project Full tutorials Part-1
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 53!
 
