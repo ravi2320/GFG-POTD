@@ -1,12 +1,12 @@
-🚀 Day 53✅(24-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 54✅(25-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 53 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 54 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2191. Sort the Jumbled Numbers in LeetCode daily challenge
-    2. Check for BST in GFG POTD
+    1. 912. Sort an Array in LeetCode daily challenge
+    2. Array to BST in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
 	🔸️ Recursive Bubble Sort 
 	🔸️ Recursive Insertion Sort
@@ -14,7 +14,7 @@ Welcome to Day 53 of my journey in advancing Data Structures and Algorithms and 
 💻 Development Section: In the Spring series today, I studied:
     ✅#1 E-Notes Spring MVC Major Project (Home Page, Login Page, Register Page)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 54!
+Excited to keep progressing and sharing my journey with you all. See you on Day 55!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
