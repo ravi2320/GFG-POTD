@@ -1,20 +1,20 @@
-🚀 Day 54✅(25-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 55✅(26-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 54 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 55 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 912. Sort an Array in LeetCode daily challenge
-    2. Array to BST in GFG POTD
+    1. 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance in LeetCode daily challenge
+    2. K-Pangrams in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ LCM And GCD
-	🔸️ 1752. Check if Array Is Sorted and Rotated
+	🔸️ Dijkstra Algorithm
+	🔸️ 189. Rotate Array
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Add Notes, View Notes and Edit Notes)
+    ✅#1 E-Notes Spring MVC Major Project (Backend of Registration Page)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 55!
+Excited to keep progressing and sharing my journey with you all. See you on Day 56!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
