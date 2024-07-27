@@ -5,8 +5,8 @@ Hello #linkedinfamily,
 Welcome to Day 55 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance in LeetCode daily challenge
-    2. K-Pangrams in GFG POTD
+    1. 2976. Minimum Cost to Convert String I in LeetCode daily challenge
+    2. Form a palindrome in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
 	🔸️ Dijkstra Algorithm
 	🔸️ 189. Rotate Array
