@@ -1,8 +1,8 @@
-🚀 Day 55✅(26-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 56✅(27-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 55 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 56 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
     1. 2976. Minimum Cost to Convert String I in LeetCode daily challenge
@@ -10,11 +10,18 @@ Welcome to Day 55 of my journey in advancing Data Structures and Algorithms and 
     3. Basic Recursion Questions from Striver's A2Z series:
 	🔸️ Floyd Warshall
 	🔸️ 189. Rotate Array
+	🔸️ 283. Move Zeroes
+	🔸️ Sorted Array Search
+	🔸️ Union of Two Sorted Arrays
+	🔸️ Intersection Of Two Sorted Arrays
+	🔸️ Find missing number in an array
+	🔸️ 485. Max Consecutive Ones
+
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Backend of Registration Page)
+    ✅#1 E-Notes Spring MVC Major Project (Backend of Login Page)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 56!
+Excited to keep progressing and sharing my journey with you all. See you on Day 57!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
