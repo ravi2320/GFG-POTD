@@ -1,12 +1,12 @@
-🚀 Day 56✅(27-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 57✅(28-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 56 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 57 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2976. Minimum Cost to Convert String I in LeetCode daily challenge
-    2. Form a palindrome in GFG POTD
+    1. 2045. Second Minimum Time to Reach Destination in LeetCode daily challenge
+    2. Remove Duplicates in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
 	🔸️ Floyd Warshall
 	🔸️ 189. Rotate Array
@@ -19,9 +19,9 @@ Welcome to Day 56 of my journey in advancing Data Structures and Algorithms and 
 
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Backend of Login Page)
+    ✅#1 E-Notes Spring MVC Major Project (Backend of Dynamic Navbar)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 57!
+Excited to keep progressing and sharing my journey with you all. See you on Day 58!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
