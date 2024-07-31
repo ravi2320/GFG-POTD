@@ -1,21 +1,21 @@
-🚀 Day 58✅(29-July-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 59✅(30-July-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 58 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 59 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1395. Count Number of Teams in LeetCode daily challenge
-    2. Row with max 1s in GFG POTD
+    1. 1653. Minimum Deletions to Make String Balanced in LeetCode daily challenge
+    2. Rat in a Maze Problem - I in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ 136. Single Number
-	🔸️ 169. Majority Element
+	🔸️ Longest Sub-Array with Sum K(Positive)
+	🔸️ Longest Sub-Array with Sum K(Positive and Negative)
 
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Backend of Dynamic Navbar)
+    ✅#1 E-Notes Spring MVC Major Project (Backend of Login and Logout functionality)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 59!
+Excited to keep progressing and sharing my journey with you all. See you on Day 60!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
