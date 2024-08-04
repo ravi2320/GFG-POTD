@@ -85,3 +85,59 @@ int main() {
 
     return 0;
 }
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define P pair<int, int>
+
+// Intuition: To find the maximum number of non-overlapping meetings, we use a priority queue to store the meetings
+// sorted by their end times. By always selecting the meeting that ends earliest, we maximize the number of meetings 
+// we can attend without overlap.
+
+// Time Complexity: O(n log n) for inserting all meetings into the priority queue, and O(n log n) for extracting them. 
+// Overall, the time complexity is O(n log n).
+
+// Space Complexity: O(n) for storing the meeting times in the priority queue.
+
+class Solution {
+public:
+    // Function to find the maximum number of meetings that can be performed in a meeting room.
+    int maxMeetings(int n, int start[], int end[]) {
+        // Priority queue to store meetings sorted by their end times.
+        priority_queue<P, vector<P>, greater<P>> pq;
+
+        // Insert all meetings into the priority queue with end time as the first element
+        for (int i = 0; i < n; i++) {
+            pq.push({end[i], start[i]});
+        }
+
+        int cnt = 1; // At least one meeting can be held
+        int freeTime = pq.top().first; // The time when the first meeting ends
+        pq.pop();
+
+        // Iterate over the remaining meetings
+        while (!pq.empty()) {
+            // If the next meeting starts after the current meeting ends
+            if (pq.top().second > freeTime) {
+                cnt++; // Increment the count of meetings
+                freeTime = pq.top().first; // Update the time when the current meeting ends
+            }
+            pq.pop();
+        }
+
+        return cnt; // Return the maximum number of non-overlapping meetings
+    }
+};
+
+int main() {
+    Solution sol;
+    int n = 6;
+    int start[] = {1, 3, 0, 5, 8, 5};
+    int end[] = {2, 4, 6, 7, 9, 9};
+
+    cout << sol.maxMeetings(n, start, end) << endl; // Output: 4
+
+    return 0;
+}
