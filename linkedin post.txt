@@ -1,21 +1,21 @@
-🚀 Day 62✅(02-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 63✅(03-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 62 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 63 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2134. Minimum Swaps to Group All 1's Together II in LeetCode daily challenge
-    2. Edit Distance in GFG POTD
+    1. 1460. Make Two Arrays Equal by Reversing Subarrays in LeetCode daily challenge
+    2. The Celebrity Problem in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Alternate Numbers
-	🔸️ 31. Next Permutation
-
+	🔸️ Array Leaders
+	🔸️ Longest consecutive subsequence
+	🔸️ 73. Set Matrix Zeroes
 
 💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Backend of view Notes)
+    ✅#1 E-Notes Spring MVC Major Project (Backend of edit and update notes)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 63!
+Excited to keep progressing and sharing my journey with you all. See you on Day 64!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
