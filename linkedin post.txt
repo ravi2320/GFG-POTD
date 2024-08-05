@@ -1,21 +1,20 @@
-🚀 Day 63✅(03-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 64✅(04-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 63 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 64 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1460. Make Two Arrays Equal by Reversing Subarrays in LeetCode daily challenge
-    2. The Celebrity Problem in GFG POTD
+    1. 1508. Range Sum of Sorted Subarray Sums in LeetCode daily challenge
+    2. N meetings in one room in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Array Leaders
-	🔸️ Longest consecutive subsequence
-	🔸️ 73. Set Matrix Zeroes
+	🔸️ 48. Rotate Image
+	🔸️ 560. Subarray Sum Equals K
 
 💻 Development Section: In the Spring series today, I studied:
     ✅#1 E-Notes Spring MVC Major Project (Backend of edit and update notes)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 64!
+Excited to keep progressing and sharing my journey with you all. See you on Day 65!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
