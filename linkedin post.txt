@@ -5,11 +5,12 @@ Hello #linkedinfamily,
 Welcome to Day 64 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1508. Range Sum of Sorted Subarray Sums in LeetCode daily challenge
-    2. N meetings in one room in GFG POTD
+    1. 2053. Kth Distinct String in an Array in LeetCode daily challenge
+    2. Bottom View of Binary Tree in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ 48. Rotate Image
-	🔸️ 560. Subarray Sum Equals K
+	🔸️ 118. Pascal's Triangle
+	🔸️ 229. Majority Element II
+
 
 💻 Development Section: In the Spring series today, I studied:
     ✅#1 E-Notes Spring MVC Major Project (Backend of edit and update notes)
