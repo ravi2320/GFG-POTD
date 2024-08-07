@@ -1,21 +1,24 @@
-🚀 Day 64✅(04-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 66✅(06-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 64 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 66 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2053. Kth Distinct String in an Array in LeetCode daily challenge
-    2. Bottom View of Binary Tree in GFG POTD
+    1. 3016. Minimum Number of Pushes to Type Word II in LeetCode daily challenge
+    2. Validate an IP Address in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ 118. Pascal's Triangle
-	🔸️ 229. Majority Element II
+	🔸️ 3016. Minimum Number of Pushes to Type Word I
+	🔸️ 15. 3Sum
+	🔸️ Largest subarray with 0 sum
 
 
-💻 Development Section: In the Spring series today, I studied:
-    ✅#1 E-Notes Spring MVC Major Project (Backend of edit and update notes)
+💻 Development Section: In the SpringBoot series today, I studied:
+    ✅ #1 Spring Boot Introduction | What is Spring Boot & Features | Spring Boot Tutorials
+    ✅ #2 How to install STS for Spring Boot | Spring Boot Tutorials
+    ✅ #3 How to create Spring Boot Project |Ways of creating Spring Boot Application|Spring Boot Tutorials
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 65!
+Excited to keep progressing and sharing my journey with you all. See you on Day 66!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
