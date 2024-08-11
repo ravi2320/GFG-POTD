@@ -1,22 +1,21 @@
-🚀 Day 68✅(08-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 70✅(10-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 68 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 70 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 885. Spiral Matrix III in LeetCode daily challenge
-    2. Sum Tree in GFG POTD
+    1. 959. Regions Cut By Slashes in LeetCode daily challenge
+    2. Rotate a Linked List in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Merge Without Extra Space
-	🔸️ 18. 4Sum
+	🔸️ 14. Longest Common Prefix
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #5 How work auto configuration in Spring Boot application | Spring Boot
     ✅ #6 Why use @SpringBootApplication annotation | Spring Boot 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 69!
+Excited to keep progressing and sharing my journey with you all. See you on Day 71!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
