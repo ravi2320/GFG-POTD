@@ -6,9 +6,9 @@ Welcome to Day 72 of my journey in advancing Data Structures and Algorithms and 
 
 📝 DSA Section: Today, I solved:
     1. 703. Kth Largest Element in a Stream in LeetCode daily challenge
-    2. Job Sequencing Problem in GFG POTD
+    2. Sum of Middle elements of two sorted arrays in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ 242. Valid Anagram
+	🔸️ Count Inversions
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
