@@ -1,21 +1,21 @@
-🚀 Day 72✅(12-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 73✅(13-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 72 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 73 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 703. Kth Largest Element in a Stream in LeetCode daily challenge
-    2. Sum of Middle elements of two sorted arrays in GFG POTD
-    3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Count Inversions
+    1. 40. Combination Sum II in LeetCode daily challenge
+    2. Square root of a number in GFG POTD
+    3. Basic Array Questions from Striver's A2Z series:
+	🔸️ 493. Reverse Pairs
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #5 How work auto configuration in Spring Boot application | Spring Boot
     ✅ #6 Why use @SpringBootApplication annotation | Spring Boot 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 73!
+Excited to keep progressing and sharing my journey with you all. See you on Day 74!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
