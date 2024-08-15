@@ -1,21 +1,22 @@
-🚀 Day 73✅(13-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 74✅(14-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 73 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 74 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 40. Combination Sum II in LeetCode daily challenge
-    2. Square root of a number in GFG POTD
-    3. Basic Array Questions from Striver's A2Z series:
-	🔸️ 493. Reverse Pairs
-
+    1. 719. Find K-th Smallest Pair Distance in LeetCode daily challenge
+    2. Longest Common Substring in GFG POTD
+    3. Basic Binary Search Questions from Striver's A2Z series:
+	🔸️ 152. Maximum Product Subarray
+	🔸️ Floor in a Sorted Array
+	🔸️ Ceil The Floor
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #5 How work auto configuration in Spring Boot application | Spring Boot
     ✅ #6 Why use @SpringBootApplication annotation | Spring Boot 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 74!
+Excited to keep progressing and sharing my journey with you all. See you on Day 75!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
