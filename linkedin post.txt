@@ -1,22 +1,21 @@
-🚀 Day 76✅(16-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 78✅(18-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 76 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 77 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 624. Maximum Distance in Arrays in LeetCode daily challenge
-    2. Maximize The Cut Segments in GFG POTD
+    1. 264. Ugly Number II in LeetCode daily challenge
+    2. Split an array into two equal Sum subarrays in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 34. Find First and Last Position of Element in Sorted Array
-	🔸️ Number of occurrence
-	🔸️ 33. Search in Rotated Sorted Array
+	🔸️ 263. Ugly Number
+
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #8 Configure JSP view in Spring boot web application | Spring Boot 
     ✅ #9 application.properties file why used in spring boot | Spring Boot
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 77!
+Excited to keep progressing and sharing my journey with you all. See you on Day 79!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
