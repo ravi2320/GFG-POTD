@@ -5,11 +5,11 @@ Hello #linkedinfamily,
 Welcome to Day 79 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 650. 2 Keys Keyboard in LeetCode daily challenge
-    2. Kth Smallest in GFG POTD
+    1. 1140. Stone Game II in LeetCode daily challenge
+    2. Burning Tree in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 153. Find Minimum in Rotated Sorted Array
-	🔸️ Find Kth Rotation
+	🔸️ 540. Single Element in a Sorted Array
+
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
