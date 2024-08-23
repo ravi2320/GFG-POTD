@@ -5,10 +5,10 @@ Hello #linkedinfamily,
 Welcome to Day 81 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 664. Strange Printer in LeetCode daily challenge
-    2. Shortest path in Undirected Graph in GFG POTD
+    1. 476. Number Complement in LeetCode daily challenge
+    2. Alien Dictionary in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 162. Find Peak Element
+	🔸️ Topological sort
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
