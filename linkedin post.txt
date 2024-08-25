@@ -1,20 +1,20 @@
-🚀 Day 83✅(23-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 85✅(25-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 83 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 85 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 592. Fraction Addition and Subtractiont in LeetCode daily challenge
-    2. Left View of Binary Tree in GFG POTD
+    1. 564. Find the Closest Palindrome in LeetCode daily challenge
+    2. 0 - 1 Knapsack Problem in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ Find Nth root of M
+	🔸️ 875. Koko Eating Bananas
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 84!
+Excited to keep progressing and sharing my journey with you all. See you on Day 86!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
