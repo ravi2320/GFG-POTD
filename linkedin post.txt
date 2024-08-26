@@ -5,10 +5,10 @@ Hello #linkedinfamily,
 Welcome to Day 85 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 564. Find the Closest Palindrome in LeetCode daily challenge
-    2. 0 - 1 Knapsack Problem in GFG POTD
+    1. 145. Binary Tree Postorder Traversal in LeetCode daily challenge
+    2. Number of pairs in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 875. Koko Eating Bananas
+	🔸️ 1482. Minimum Number of Days to Make m Bouquets
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
