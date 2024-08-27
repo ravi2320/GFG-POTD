@@ -1,0 +1,59 @@
+class Solution {
+  public:
+    Node* reverse(Node* head){
+        Node *prev = NULL;
+        Node *curr = head;
+        Node *next = NULL;
+        
+        while(curr){
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        
+        return prev;
+    }
+    
+    int solve(Node *head){
+        if(!head){
+            return 1;
+        }
+        
+        int carry = solve(head->next);
+        
+        int val = head->data + carry;
+        
+        head->data = val % 10;
+        
+        return val / 10;
+
+    }
+    Node* addOne(Node* head) {
+        // Your Code here
+        // return head of list after adding one
+        /*head = reverse(head);
+        
+        Node *temp = head;
+        int carry = 1;
+        while(temp){
+            int val = temp->data + carry;
+            temp->data = val % 10;
+            carry = val / 10;
+            if(!carry) break;
+            temp = temp->next;
+        }
+        
+        head = reverse(head);*/
+        
+        int carry = solve(head);
+        
+        if(carry){
+            Node *newNode = new Node(1);
+            newNode->next = head;
+            return newNode;
+        }
+        
+        return head;
+    }
+};
