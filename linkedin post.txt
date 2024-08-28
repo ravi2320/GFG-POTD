@@ -1,20 +1,20 @@
-🚀 Day 86✅(26-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 87✅(27-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 86 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 87 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 145. Binary Tree Postorder Traversal in LeetCode daily challenge
-    2. Wildcard Pattern Matching in GFG POTD
+    1. 1514. Path with Maximum Probability in LeetCode daily challenge
+    2. Maximum Difference in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 1283. Find the Smallest Divisor Given a Threshold
+	🔸️ 1011. Capacity To Ship Packages Within D Days
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 87!
+Excited to keep progressing and sharing my journey with you all. See you on Day 88!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
