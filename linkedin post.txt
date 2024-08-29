@@ -1,20 +1,21 @@
-🚀 Day 87✅(27-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 88✅(28-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 87 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 88 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1514. Path with Maximum Probability in LeetCode daily challenge
-    2. Maximum Difference in GFG POTD
+    1. 1905. Count Sub Islands in LeetCode daily challenge
+    2. Sorting Elements of an Array by Frequency in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 1011. Capacity To Ship Packages Within D Days
+	🔸️ 1539. Kth Missing Positive Number
+	🔸️ Aggressive Cows
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 88!
+Excited to keep progressing and sharing my journey with you all. See you on Day 89!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
