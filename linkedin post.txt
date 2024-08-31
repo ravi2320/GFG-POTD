@@ -5,10 +5,11 @@ Hello #linkedinfamily,
 Welcome to Day 89 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 947. Most Stones Removed with Same Row or Column in LeetCode daily challenge
-    2. Find length of Loop in GFG POTD
+    1. 2699. Modify Graph Edge Weights in LeetCode daily challenge
+    2. N-Queen Problem in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ Allocate Books
+	🔸️ 410. Split Array Largest Sum
+	🔸️ Painter's Partition Problem
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
