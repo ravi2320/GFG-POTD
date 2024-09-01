@@ -1,21 +1,20 @@
-🚀 Day 89✅(29-Auguast-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 91✅(31-Auguast-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 89 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 31 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2699. Modify Graph Edge Weights in LeetCode daily challenge
-    2. N-Queen Problem in GFG POTD
+    1. 1514. Path with Maximum Probability in LeetCode daily challenge
+    2. Sorted subsequence of size 3 in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 410. Split Array Largest Sum
-	🔸️ Painter's Partition Problem
+	🔸️  Minimize Max Distance to Gas Station
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 90!
+Excited to keep progressing and sharing my journey with you all. See you on Day 92!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
