@@ -1,20 +1,20 @@
-🚀 Day 93✅(02-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 94✅(03-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 93 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 94 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1894. Find the Student that Will Replace the Chalk in LeetCode daily challenge
-    2. Minimum Cost Path in GFG POTD
+    1. 1945. Sum of Digits of String After Convert in LeetCode daily challenge
+    2. Minimum number of deletions and insertions in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️  240. Search a 2D Matrix II
+	🔸️  1901. Find a Peak Element II
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 94!
+Excited to keep progressing and sharing my journey with you all. See you on Day 95!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
