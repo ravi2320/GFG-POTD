@@ -1,20 +1,20 @@
-🚀 Day 94✅(03-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 96✅(05-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 94 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 96 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1945. Sum of Digits of String After Convert in LeetCode daily challenge
-    2. Minimum number of deletions and insertions in GFG POTD
+    1. 2028. Find Missing Observations in LeetCode daily challenge
+    2. Missing in Array in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️  1901. Find a Peak Element II
+	🔸️ 1021. Remove Outermost Parentheses
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 95!
+Excited to keep progressing and sharing my journey with you all. See you on Day 97!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
