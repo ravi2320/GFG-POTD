@@ -1,20 +1,21 @@
-🚀 Day 96✅(05-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 97✅(06-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 96 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 97 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2028. Find Missing Observations in LeetCode daily challenge
-    2. Missing in Array in GFG POTD
+    1. 3217. Delete Nodes From Linked List Present in Array in LeetCode daily challenge
+    2. Kadane's Algorithm in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 1021. Remove Outermost Parentheses
+	🔸️ 151. Reverse Words in a String
+	🔸️ 1903. Largest Odd Number in String
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 97!
+Excited to keep progressing and sharing my journey with you all. See you on Day 98!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
