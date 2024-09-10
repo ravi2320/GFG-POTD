@@ -1,21 +1,21 @@
-🚀 Day 98✅(07-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 100✅(09-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 98 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 100 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1367. Linked List in Binary Tree in LeetCode daily challenge
-    2. Nth Natural Number in GFG POTD
+    1. 2326. Spiral Matrix IV in LeetCode daily challenge
+    2. Sort 0s, 1s and 2s in GFG POTD
     3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 14. Longest Common Prefix
-	🔸️ 205. Isomorphic Strings
+	🔸️ 242. Valid Anagram
+	🔸️ 451. Sort Characters By Frequency
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 99!
+Excited to keep progressing and sharing my journey with you all. See you on Day 10!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
