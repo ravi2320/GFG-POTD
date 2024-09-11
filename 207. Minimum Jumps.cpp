@@ -55,6 +55,7 @@ public:
         for (int i = 1; i < n; i++) {
             // Decrement the current jump distance
             jump--;
+	    mx--;
 
             // Update the maximum reachable index
             mx = max(mx, arr[i]);
