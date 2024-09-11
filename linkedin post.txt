@@ -1,21 +1,21 @@
-🚀 Day 101✅(10-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 102✅(11-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 101 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 102 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2807. Insert Greatest Common Divisors in Linked List in LeetCode daily challenge
-    2. Circle of strings in GFG POTD
-    3. Basic Binary Search Questions from Striver's A2Z series:
-	🔸️ 1614. Maximum Nesting Depth of the Parentheses
+    1. 2220. Minimum Bit Flips to Convert Number in LeetCode daily challenge
+    2. Minimum Cost of ropes in GFG POTD
+    3. Basic String Questions from Striver's A2Z series:
+	🔸️ 13. Roman to Integer
 	🔸️ 8. String to Integer (atoi)
 
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #10 Dependency injection in Spring Boot Project based Example | Spring Boot Tutorials In Hindi
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 101!
+Excited to keep progressing and sharing my journey with you all. See you on Day 103!
 
 #DSA #Spring #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
