@@ -1,21 +1,24 @@
-🚀 Day 103✅(12-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 104✅(13-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 103 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 104 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1684. Count the Number of Consistent Strings in LeetCode daily challenge
-    2. Middle of a Linked List in GFG POTD
-    3. Basic String Questions from Striver's A2Z series:
-	🔸️ 5. Longest Palindromic Substring
-	🔸️ 1781. Sum of Beauty of All Substrings
-
+    1. 1310. XOR Queries of a Subarray in LeetCode daily challenge
+    2. Mirror Tree in GFG POTD
+    3. Basic Linked List Questions from Striver's A2Z series:
+	🔸️ 151. Reverse Words in a String
+	🔸️ Array to Linked List
+	🔸️ Linked List Insertion At End
+	🔸️ 237. Delete Node in a Linked List
+	🔸️ Count Linked List Nodes
+	🔸️ Search in Linked List
 
 💻 Development Section: In the SpringBoot series today, I studied:
-    ✅ #12 Data JPA Database Configuration | Spring Data JPA Tutorials
+    ✅ #13 Crud Operation Using Spring DATA JPA | Spring Data JPA Tutorials
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 104!
+Excited to keep progressing and sharing my journey with you all. See you on Day 105!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
