@@ -1,24 +1,26 @@
-🚀 Day 104✅(13-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 105✅(14-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 104 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 105 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1310. XOR Queries of a Subarray in LeetCode daily challenge
-    2. Mirror Tree in GFG POTD
+    1. 2419. Longest Subarray With Maximum Bitwise AND in LeetCode daily challenge
+    2. Alternate positive and negative numbers in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ 151. Reverse Words in a String
-	🔸️ Array to Linked List
-	🔸️ Linked List Insertion At End
-	🔸️ 237. Delete Node in a Linked List
-	🔸️ Count Linked List Nodes
-	🔸️ Search in Linked List
+	🔸️ Introduction To Doubly Linked List
+	🔸️ Delete Head of a Doubly Linked List
+	🔸️ Delete K-th Node from Doubly Linked List
+	🔸️ Delete node from Doubly Linked List
+	🔸️ Delete Last Node of a Doubly Linked List
+	🔸️ Insert At The Front of a Doubly Linked List
+	🔸️ Insert at end of Doubly Linked List
+	🔸️ Insertion In Doubly Linked List
 
 💻 Development Section: In the SpringBoot series today, I studied:
-    ✅ #13 Crud Operation Using Spring DATA JPA | Spring Data JPA Tutorials
+    ✅ #14 FindBy method and Custom Query in Spring DATA JPA | Spring Data JPA Tutorials
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 105!
+Excited to keep progressing and sharing my journey with you all. See you on Day 106!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
