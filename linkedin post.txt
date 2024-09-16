@@ -5,20 +5,15 @@ Hello #linkedinfamily,
 Welcome to Day 105 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2419. Longest Subarray With Maximum Bitwise AND in LeetCode daily challenge
-    2. Alternate positive and negative numbers in GFG POTD
+    1. 1371. Find the Longest Substring Containing Vowels in Even Counts in LeetCode daily challenge
+    2. Binary Tree to DLL in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ Introduction To Doubly Linked List
-	🔸️ Delete Head of a Doubly Linked List
-	🔸️ Delete K-th Node from Doubly Linked List
-	🔸️ Delete node from Doubly Linked List
-	🔸️ Delete Last Node of a Doubly Linked List
-	🔸️ Insert At The Front of a Doubly Linked List
-	🔸️ Insert at end of Doubly Linked List
-	🔸️ Insertion In Doubly Linked List
+	🔸️ Reverse a Doubly Linked List
+	🔸️ 876. Middle of the Linked List
+	🔸️ 206. Reverse Linked List
 
 💻 Development Section: In the SpringBoot series today, I studied:
-    ✅ #14 FindBy method and Custom Query in Spring DATA JPA | Spring Data JPA Tutorials
+    ✅ #15 Practical FindBy method and Custom Query in Spring DATA JPA | Spring Data JPA Tutorials
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 106!
 
