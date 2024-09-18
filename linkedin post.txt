@@ -1,21 +1,19 @@
-🚀 Day 105✅(14-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 108✅(17-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 105 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 108 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1371. Find the Longest Substring Containing Vowels in Even Counts in LeetCode daily challenge
-    2. Binary Tree to DLL in GFG POTD
+    1. 884. Uncommon Words from Two Sentences in LeetCode daily challenge
+    2. Minimize the Heights II in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ Reverse a Doubly Linked List
-	🔸️ 876. Middle of the Linked List
-	🔸️ 206. Reverse Linked List
+	🔸️ Find length of Loop
 
 💻 Development Section: In the SpringBoot series today, I studied:
-    ✅ #15 Practical FindBy method and Custom Query in Spring DATA JPA | Spring Data JPA Tutorials
+    ✅ #17 Pagination & Sorting in Spring Data JPA Example | Spring Data JPA Tutorials
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 106!
+Excited to keep progressing and sharing my journey with you all. See you on Day 109!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
 
