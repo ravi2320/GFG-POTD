@@ -5,11 +5,11 @@ Hello #linkedinfamily,
 Welcome to Day 109 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 179. Largest Number in LeetCode daily challenge
-    2. Parenthesis Checker in GFG POTD
+    1. 241. Different Ways to Add Parentheses in LeetCode daily challenge
+    2. Reverse Words in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ 328. Odd Even Linked List
-	🔸️ 234. Palindrome Linked List
+	🔸️ 19. Remove Nth Node From End of List
+	🔸️ 2095. Delete the Middle Node of a Linked List
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #18 Relationship Mapping in Data JPA | Spring Data JPA Tutorials
