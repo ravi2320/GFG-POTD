@@ -1,19 +1,19 @@
-🚀 Day 112✅(21-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 113✅(22-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 112 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 113 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 386. Lexicographical Numbers in LeetCode daily challenge
-    2. Clone a linked list with next and random pointer in GFG POTD
+    1. 440. K-th Smallest in Lexicographical Order in LeetCode daily challenge
+    2. Longest Prefix Suffix in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ 160. Intersection of Two Linked Lists
-	🔸️ Add 1 to a Linked List Number
+	🔸️ Search Pattern (KMP-Algorithm)
+	🔸️ 2. Add Two Numbers
 
 💻 Development Section: In the SpringBoot series today, I studied:
-    ✅ #20 How Spring Security work internal | Spring Security 6.0 Tutorials
+    ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 113!
+Excited to keep progressing and sharing my journey with you all. See you on Day 114!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
