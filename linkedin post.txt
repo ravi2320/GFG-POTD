@@ -1,18 +1,18 @@
-🚀 Day 115✅(24-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 116✅(25-September-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 115 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 116 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 3043. Find the Length of the Longest Common Prefix in a String in LeetCode daily challenge
-    2. Missing And Repeating in GFG POTD
+    1. 729. My Calendar I in LeetCode daily challenge
+    2. Roof Top in GFG POTD
     3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ 25. Reverse Nodes in k-Group
+	🔸️ Flattening a Linked List
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 116!
+Excited to keep progressing and sharing my journey with you all. See you on Day 117!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
