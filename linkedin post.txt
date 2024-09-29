@@ -6,9 +6,9 @@ Welcome to Day 119 of my journey in advancing Data Structures and Algorithms and
 
 📝 DSA Section: Today, I solved:
     1. 641. Design Circular Deque in LeetCode daily challenge
-    2. K Sized Subarray Maximum in GFG POTD
-    3. Basic Linked List Questions from Striver's A2Z series:
-	🔸️ Clone a linked list with next and random pointer
+    2. Minimal Cost in GFG POTD
+    3. Basic Recursion Questions from Striver's A2Z series:
+	🔸️ Reverse a Stack
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
