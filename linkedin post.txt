@@ -1,14 +1,14 @@
-🚀 Day 121✅(30-September-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 122✅(01-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 121 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 122 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1381. Design a Stack With Increment Operation in LeetCode daily challenge
-    2. Merge two BST 's in GFG POTD
+    1. 1497. Check If Array Pairs Are Divisible by k in LeetCode daily challenge
+    2. Multiply two linked lists in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Flatten BST to sorted list
+	🔸️ 78. Subsets
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
