@@ -5,11 +5,10 @@ Hello #linkedinfamily,
 Welcome to Day 124 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1590. Make Sum Divisible by P in LeetCode daily challenge
-    2. Majority Vote in GFG POTD
+    1. 2491. Divide Players Into Teams of Equal Skill in LeetCode daily challenge
+    2. Deletion and Reverse in Circular Linked List in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Delete middle element from stack
-	🔸️ 1922. Count Good Numbers
+	🔸️ Reverse a Stack
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
