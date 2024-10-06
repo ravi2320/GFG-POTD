@@ -1,18 +1,18 @@
-🚀 Day 124✅(03-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 125✅(04-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 124 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 125 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 2491. Divide Players Into Teams of Equal Skill in LeetCode daily challenge
-    2. Deletion and Reverse in Circular Linked List in GFG POTD
+    1. 567. Permutation in String in LeetCode daily challenge
+    2. Not a subset sum in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Reverse a Stack
+	🔸️ Sort a Stack
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 125!
+Excited to keep progressing and sharing my journey with you all. See you on Day 126!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
