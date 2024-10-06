@@ -6,7 +6,7 @@ Welcome to Day 125 of my journey in advancing Data Structures and Algorithms and
 
 📝 DSA Section: Today, I solved:
     1. 567. Permutation in String in LeetCode daily challenge
-    2. Not a subset sum in GFG POTD
+    2. Find the number of islands in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
 	🔸️ Sort a Stack
 
