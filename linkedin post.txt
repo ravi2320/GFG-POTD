@@ -1,19 +1,18 @@
-🚀 Day 129✅(08-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 130✅(09-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 129 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 130 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1963. Minimum Number of Swaps to Make the String Balanced in LeetCode daily challenge
-    2. Largest Pair Sum in GFG POTD
+    1. 921. Minimum Add to Make Parentheses Valid in LeetCode daily challenge
+    2. Linked List Matrix in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Generate all binary strings
-	🔸️ 78. Subsets
+	🔸️ Perfect Sum Problem
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 130!
+Excited to keep progressing and sharing my journey with you all. See you on Day 131!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
