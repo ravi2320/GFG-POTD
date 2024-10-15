@@ -1,18 +1,18 @@
-🚀 Day 134✅(13-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 135✅(14-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 134 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 135 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
-    1. 1942. The Number of the Smallest Unoccupied Chair in LeetCode daily challenge
-    2. 632. Smallest Range Covering Elements from K Lists in GFG POTD
+    1. 2530. Maximal Score After Applying K Operations in LeetCode daily challenge
+    2. Count Linked List Nodes in GFG POTD
     3. Basic Recursion Questions from Striver's A2Z series:
-	🔸️ Subset Sums
+	🔸️ 90. Subsets II
 
 💻 Development Section: In the SpringBoot series today, I studied:
     ✅ #21 Spring Security Authentication & Authorization inMemeory |Spring Security 6.0
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 135!
+Excited to keep progressing and sharing my journey with you all. See you on Day 136!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
