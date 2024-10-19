@@ -1,15 +1,15 @@
-🚀 Day 138✅(17-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 139✅(18-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 138 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 139 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 670. Maximum Swap in LeetCode daily challenge
- 2. Split Linked List Alternatingly in GFG POTD
+ 1. 2044. Count Number of Maximum Bitwise-OR Subsets in LeetCode daily challenge
+ 2. Single Number in GFG POTD
  3. Basic Recursion Questions from Striver's A2Z series:
- 🔸️ 131. Palindrome Partitioning
+   🔸️ 79. Word Search
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 139!
+Excited to keep progressing and sharing my journey with you all. See you on Day 140!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
