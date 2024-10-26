@@ -1,15 +1,15 @@
-🚀 Day 144✅(23-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 146✅(25-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 144 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 146 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2641. Cousins in Binary Tree II in LeetCode daily challenge
- 2. Find the Sum of Last N nodes of the Linked List in GFG POTD
+ 1. 1233. Remove Sub-Folders from the Filesystem in LeetCode daily challenge
+ 2. Alternative Sorting in GFG POTD
  3. Basic Recursion Questions from Striver's A2Z series:
-   🔸️ 37. Sudoku Solver
+   🔸️ Bit Manipulation
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 145!
+Excited to keep progressing and sharing my journey with you all. See you on Day 147!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
