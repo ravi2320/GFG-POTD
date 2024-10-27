@@ -1,15 +1,16 @@
-🚀 Day 146✅(25-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 147✅(26-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 146 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 147 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 1233. Remove Sub-Folders from the Filesystem in LeetCode daily challenge
- 2. Alternative Sorting in GFG POTD
- 3. Basic Recursion Questions from Striver's A2Z series:
-   🔸️ Bit Manipulation
+ 1. 2458. Height of Binary Tree After Subtree Removal Queries in LeetCode daily challenge
+ 2. Occurence of an integer in a Linked List in GFG POTD
+ 3. Basic Bit Manipulation Questions from Striver's A2Z series:
+   🔸️ K-th Bit is Set or Not
+   🔸️ Odd or Even
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 147!
+Excited to keep progressing and sharing my journey with you all. See you on Day 148!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
