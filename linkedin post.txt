@@ -1,15 +1,15 @@
-🚀 Day 148✅(27-October-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 150✅(29-October-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 148 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 150 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2458. Height of Binary Tree After Subtree Removal Queries in LeetCode daily challenge
- 2. Triplet Family in GFG POTD
+ 1. 2684. Maximum Number of Moves in a Grid in LeetCode daily challenge
+ 2. Quick Sort on Linked List in GFG POTD
  3. Basic Bit Manipulation Questions from Striver's A2Z series:
-   🔸️ 231. Power of Tw
+   🔸️ Swap two numbers
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 149!
+Excited to keep progressing and sharing my journey with you all. See you on Day 151!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
