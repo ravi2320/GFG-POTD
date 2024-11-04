@@ -1,15 +1,15 @@
-🚀 Day 153✅(01-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 155✅(03-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 153 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 155 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 1957. Delete Characters to Make Fancy String in LeetCode daily challenge
- 2. Insert in Sorted way in a Sorted DLL in GFG POTD
+ 1. 796. Rotate String in LeetCode daily challenge
+ 2. Is Linked List Length Even? in GFG POTD
  3. Basic Bit Manipulation Questions from Striver's A2Z series:
-   🔸️ 2220. Minimum Bit Flips to Convert Number
+   🔸️ Find XOR of numbers from L to R
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 154!
+Excited to keep progressing and sharing my journey with you all. See you on Day 156!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
