@@ -1,15 +1,15 @@
-🚀 Day 157✅(05-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 158✅(06-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 157 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 158 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
  1. 2914. Minimum Number of Changes to Make Binary String Beautiful in LeetCode daily challenge
- 2. Rotate by 90 degree in GFG POTD
+ 2. Root to leaf paths sum in GFG POTD
  3. Basic Bit Manipulation Questions from Striver's A2Z series:
-   🔸️ Two numbers with odd occurrences
+   🔸️ All divisors of a Number
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 158!
+Excited to keep progressing and sharing my journey with you all. See you on Day 159!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
