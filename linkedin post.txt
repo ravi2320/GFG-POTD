@@ -1,15 +1,15 @@
-🚀 Day 159✅(07-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 161✅(09-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 159 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 161 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2275. Largest Combination With Bitwise AND Greater Than Zero in LeetCode daily challenge
- 2. Split array in three equal sum subarrays in GFG POTD
+ 1. 3133. Minimum Array End in LeetCode daily challenge
+ 2. Minimum sum in GFG POTD
  3. Basic Bit Manipulation Questions from Striver's A2Z series:
-   🔸️ 204. Count Primes
+   🔸️ 50. Pow(x, n)
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 160!
+Excited to keep progressing and sharing my journey with you all. See you on Day 162!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
