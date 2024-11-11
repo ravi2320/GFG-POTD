@@ -1,15 +1,15 @@
-🚀 Day 161✅(09-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 162✅(10-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 161 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 162 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 3133. Minimum Array End in LeetCode daily challenge
- 2. Minimum sum in GFG POTD
- 3. Basic Bit Manipulation Questions from Striver's A2Z series:
-   🔸️ 50. Pow(x, n)
+ 1. 3097. Shortest Subarray With OR at Least K II in LeetCode daily challenge
+ 2. Union of Two Sorted Arrays with Distinct Elements in GFG POTD
+ 3. Basic Stack and Queue Questions from Striver's A2Z series:
+   🔸️ Implement stack using array
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 162!
+Excited to keep progressing and sharing my journey with you all. See you on Day 163!
 
 #DSA #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
