@@ -6,9 +6,9 @@ Welcome to Day 167 of my journey in advancing Data Structures and Algorithms and
 
 📝 DSA Section: Today, I solved:
  1. 2064. Minimized Maximum of Products Distributed to Any Store in LeetCode daily challenge
- 2. Second Largest in GFG POTD
+ 2. 1574. Shortest Subarray to be Removed to Make Array Sorted in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ Stack using Linked List
+   🔸️ Queue using Linked List
 
 Excited to keep progressing and sharing my journey with you all. See you on Day 168!
 
