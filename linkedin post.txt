@@ -1,15 +1,15 @@
-🚀 Day 169✅(17-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 170✅(18-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 169 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 170 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 862. Shortest Subarray with Sum at Least K in LeetCode daily challenge
- 2. Reverse an Array in GFG POTD
+ 1. 1652. Defuse the Bomb in LeetCode daily challenge
+ 2. Rotate Array in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ 232. Implement Queue using Stacks
+   🔸️ 20. Valid Parentheses
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 170!
+Excited to keep progressing and sharing my journey with you all. See you on Day 171!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
