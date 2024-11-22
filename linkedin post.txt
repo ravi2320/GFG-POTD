@@ -1,15 +1,15 @@
-🚀 Day 172✅(20-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 173✅(21-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 172 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 173 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2516. Take K of Each Character From Left and Right LeetCode daily challenge
- 2. Majority Element II in GFG POTD
+ 1. 2257. Count Unguarded Cells in the Grid LeetCode daily challenge
+ 2. Stock Buy and Sell – Multiple Transaction Allowed in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ Infix to Postfix
+   🔸️ Prefix to Infix Conversion
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 173!
+Excited to keep progressing and sharing my journey with you all. See you on Day 174!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
