@@ -1,15 +1,15 @@
-🚀 Day 173✅(21-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 174✅(22-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 173 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 174 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2257. Count Unguarded Cells in the Grid LeetCode daily challenge
- 2. Stock Buy and Sell – Multiple Transaction Allowed in GFG POTD
+ 1. 1072. Flip Columns For Maximum Number of Equal Rows LeetCode daily challenge
+ 2. Stock Buy and Sell – Max one Transaction Allowed in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ Prefix to Infix Conversion
+   🔸️ Prefix to Postfix Conversion
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 174!
+Excited to keep progressing and sharing my journey with you all. See you on Day 175!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
