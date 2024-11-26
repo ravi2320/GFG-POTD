@@ -1,15 +1,15 @@
-🚀 Day 176✅(24-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 177✅(25-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 176 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 177 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 1975. Maximum Matrix Sum LeetCode daily challenge
- 2. Kadane's Algorithm in GFG POTD
+ 1. 773. Sliding Puzzle LeetCode daily challenge
+ 2. Maximum Product Subarray in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ 503. Next Greater Element II
+   🔸️ Nearest Smaller Element
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 177!
+Excited to keep progressing and sharing my journey with you all. See you on Day 178!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
