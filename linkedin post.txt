@@ -1,15 +1,15 @@
-🚀 Day 180✅(28-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 182✅(30-November-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 180 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 182 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2290. Minimum Obstacle Removal to Reach Corner LeetCode daily challenge
- 2. Smallest Positive Missing Number in GFG POTD
+ 1. 2097. Valid Arrangement of Pairs LeetCode daily challenge
+ 2. Anagram in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ The Celebrity Problem
+   🔸️ 735. Asteroid Collision 
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 181!
+Excited to keep progressing and sharing my journey with you all. See you on Day 183!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
