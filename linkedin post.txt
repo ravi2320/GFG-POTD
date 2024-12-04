@@ -1,15 +1,15 @@
-🚀 Day 184✅(02-November-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 185✅(03-December-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 184 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 185 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence LeetCode daily challenge
- 2. Search Pattern (KMP-Algorithm) in GFG POTD
+ 1. 2109. Adding Spaces to a String LeetCode daily challenge
+ 2. Min Chars to Add for Palindrome in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ 402. Remove K Digits
+   🔸️ 84. Largest Rectangle in Histogram
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 185!
+Excited to keep progressing and sharing my journey with you all. See you on Day 186!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
