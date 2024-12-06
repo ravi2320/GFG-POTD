@@ -1,15 +1,15 @@
-🚀 Day 185✅(03-December-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 186✅(04-December-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 185 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 186 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
  1. 2109. Adding Spaces to a String LeetCode daily challenge
- 2. Min Chars to Add for Palindrome in GFG POTD
+ 2. 2825. Make String a Subsequence Using Cyclic Increments in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ 84. Largest Rectangle in Histogram
+   🔸️ 85. Maximal Rectangle
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 186!
+Excited to keep progressing and sharing my journey with you all. See you on Day 187!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
