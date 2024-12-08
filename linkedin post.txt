@@ -1,15 +1,15 @@
-🚀 Day 186✅(04-December-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 189✅(07-December-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 186 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 189 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2109. Adding Spaces to a String LeetCode daily challenge
- 2. 2825. Make String a Subsequence Using Cyclic Increments in GFG POTD
+ 1. 1760. Minimum Limit of Balls in a Bag LeetCode daily challenge
+ 2. Count Inversions in GFG POTD
  3. Basic Stack and Queue Questions from Striver's A2Z series:
-   🔸️ 85. Maximal Rectangle
+   🔸️ The Celebrity Problem
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 187!
+Excited to keep progressing and sharing my journey with you all. See you on Day 190!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
