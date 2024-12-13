@@ -1,15 +1,15 @@
-🚀 Day 193✅(11-December-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 194✅(12-December-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 193 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 194 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 2779. Maximum Beauty of an Array After Applying Operation I LeetCode daily challenge
- 2. Merge Without Extra Space Intervals in GFG POTD
+ 1. 2558. Take Gifts From the Richest Pile LeetCode daily challenge
+ 2. Number of occurrence in GFG POTD
  3. Basic Sliding Window Questions from Striver's A2Z series:
-   🔸️ 1004. Max Consecutive Ones III
+   🔸️ Fruit Into Baskets
 
-Excited to keep progressing and sharing my journey with you all. See you on Day 194!
+Excited to keep progressing and sharing my journey with you all. See you on Day 195!
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
