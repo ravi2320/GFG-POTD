@@ -1,15 +1,13 @@
-🚀 Day 197✅(15-December-2024): Advancing in the DSA with Development Journey 🚀
+🚀 Day 200✅(18-December-2024): Advancing in the DSA with Development Journey 🚀
 
 Hello #linkedinfamily,
 
-Welcome to Day 197 of my journey in advancing Data Structures and Algorithms and development.
+Welcome to Day 200 of my journey in advancing Data Structures and Algorithms and development.
 
 📝 DSA Section: Today, I solved:
- 1. 1792. Maximum Average Pass Ratio LeetCode daily challenge
- 2. Search in Rotated Sorted Array in GFG POTD
+ 1. 2182. Construct String With Repeat Limit LeetCode daily challenge
+ 2. Allocate Minimum Pages in GFG POTD
  3. Basic Sliding Window Questions from Striver's A2Z series:
-   🔸️ 1248. Count Number of Nice Subarrays
-
-Excited to keep progressing and sharing my journey with you all. See you on Day 198!
+   🔸️ 1423. Maximum Points You Can Obtain from Cards
 
 #DSA #geekstreak2024 #gfg160 #Springboot #DevelopmentJourney #DailyCode #Coding #Programming #DailyUpdate #Learning #TechJourney #Growth 🌱🛠️
