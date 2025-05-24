@@ -1,0 +1,65 @@
+/*
+Sum of all substrings of a number
+Difficulty: MediumAccuracy: 38.11%Submissions: 65K+Points: 4
+Given an integer s represented as a string, the task is to get the sum of all possible sub-strings of this string.
+
+Note: The number may have leading zeros.
+It is guaranteed that the total sum will fit within a 32-bit signed integer.
+
+Examples:
+
+Input: s = "6759"
+Output: 8421
+Explanation:
+Sum = 6 + 7 + 5 + 9 + 67 + 75 + 59 + 675 + 759 + 6759 = 8421
+Input: s = "421"
+Output: 491
+Explanation: 
+Sum = 4 + 2 + 1 + 42 + 21 + 421 = 491
+Constraints:
+1 <= |s| <= 9
+*/
+
+/*
+Approach:
+- Generate all possible substrings of the input numeric string `s`.
+- Convert each substring to its integer value and accumulate the sum.
+
+Intuition:
+- We treat each substring `s[i..j]` as a number and compute its value.
+- For every such number, we add it to a running total.
+- This brute-force approach uses nested loops to form every valid substring and convert it to a number.
+
+Time Complexity: O(N^2)
+    - Outer loop runs N times, inner loop runs up to N times.
+    - For each substring, number construction takes O(1) since we reuse previous result (`num = num*10 + digit`).
+
+Space Complexity: O(1)
+    - Constant extra space is used for integers.
+
+Note: This approach works for small strings but will overflow for large input due to large intermediate values.
+*/
+
+class Solution {
+public:
+    int sumSubstrings(string &s) {
+        int n = s.length();
+        int sum = 0;
+
+        // Iterate over all starting positions
+        for (int i = 0; i < n; i++) {
+            int num = 0;
+
+            // Form substrings starting from index i
+            for (int j = i; j < n; j++) {
+                // Convert substring to integer by appending digit
+                num = (num * 10) + (s[j] - '0');
+
+                // Add current number to the total sum
+                sum += num;
+            }
+        }
+
+        return sum;
+    }
+};
